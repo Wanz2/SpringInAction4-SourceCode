@@ -4,6 +4,8 @@
       <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/javax.servlet/javax.servlet-api/3.1.0/jar/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/javax.servlet-api-3.1.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
